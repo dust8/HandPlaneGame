@@ -1,6 +1,8 @@
 # hand plane game
 
-这是一个利用 `tensorflowjs` 的手势识别模型 `handpose` 做的一个控制飞机飞行的 demo.
+这是一个利用 `tensorflowjs` 的手势识别模型 `handpose` 做的一个控制飞机飞行的 [demo](https://dust8.github.io/HandPlaneGame/) (点击查看).
+
+需要在地址栏选择允许使用摄像头, 然后在刷新下.
 
 <img src="hand-plane-game.gif" alt="demo" style="width:640px" />
 
